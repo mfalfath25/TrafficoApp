@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mfalf/AndroidStudioProjects/psi_finalproject1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2609375" />
+        <entry key="..\:/Users/mfalf/AndroidStudioProjects/psi_finalproject1/app/src/main/res/drawable/btm_nav_selector.xml" value="0.2609375" />
+        <entry key="..\:/Users/mfalf/AndroidStudioProjects/psi_finalproject1/app/src/main/res/drawable/circle_shape.xml" value="0.2609375" />
+        <entry key="..\:/Users/mfalf/AndroidStudioProjects/psi_finalproject1/app/src/main/res/drawable/ic_home.xml" value="0.2609375" />
+        <entry key="..\:/Users/mfalf/AndroidStudioProjects/psi_finalproject1/app/src/main/res/drawable/ic_lesson.xml" value="0.2609375" />
+        <entry key="..\:/Users/mfalf/AndroidStudioProjects/psi_finalproject1/app/src/main/res/layout/activity_detail_information.xml" value="0.13385416666666666" />
+        <entry key="..\:/Users/mfalf/AndroidStudioProjects/psi_finalproject1/app/src/main/res/layout/activity_edit_profile.xml" value="0.13385416666666666" />
+        <entry key="..\:/Users/mfalf/AndroidStudioProjects/psi_finalproject1/app/src/main/res/layout/activity_lesson_detail.xml" value="0.33" />
+        <entry key="..\:/Users/mfalf/AndroidStudioProjects/psi_finalproject1/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/mfalf/AndroidStudioProjects/psi_finalproject1/app/src/main/res/layout/activity_quiz.xml" value="0.33" />
+        <entry key="..\:/Users/mfalf/AndroidStudioProjects/psi_finalproject1/app/src/main/res/layout/activity_quiz_result.xml" value="0.33" />
+        <entry key="..\:/Users/mfalf/AndroidStudioProjects/psi_finalproject1/app/src/main/res/layout/activity_splash_screen.xml" value="0.3625" />
+        <entry key="..\:/Users/mfalf/AndroidStudioProjects/psi_finalproject1/app/src/main/res/layout/fragment_home.xml" value="0.24479166666666666" />
+        <entry key="..\:/Users/mfalf/AndroidStudioProjects/psi_finalproject1/app/src/main/res/layout/fragment_lesson.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/mfalf/AndroidStudioProjects/psi_finalproject1/app/src/main/res/layout/fragment_profile.xml" value="0.33" />
+        <entry key="..\:/Users/mfalf/AndroidStudioProjects/psi_finalproject1/app/src/main/res/layout/fragment_score.xml" value="0.24479166666666666" />
+        <entry key="..\:/Users/mfalf/AndroidStudioProjects/psi_finalproject1/app/src/main/res/layout/item_detail_lesson_white.xml" value="0.24479166666666666" />
+        <entry key="..\:/Users/mfalf/AndroidStudioProjects/psi_finalproject1/app/src/main/res/layout/item_lesson.xml" value="0.33" />
+        <entry key="..\:/Users/mfalf/AndroidStudioProjects/psi_finalproject1/app/src/main/res/layout/item_quiz.xml" value="0.23020833333333332" />
+        <entry key="..\:/Users/mfalf/AndroidStudioProjects/psi_finalproject1/app/src/main/res/layout/item_score.xml" value="0.23020833333333332" />
+        <entry key="..\:/Users/mfalf/AndroidStudioProjects/psi_finalproject1/app/src/main/res/menu/bottom_menu.xml" value="0.23020833333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
